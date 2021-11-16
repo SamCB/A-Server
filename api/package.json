@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.210.0",
+    "aws-sdk": "^2.814.0",
     "babel-runtime": "^6.26.0",
     "serverless": "^1.26.1"
   },
